@@ -1,2 +1,2 @@
 # ApiRESTfulwithExpressAndTypescript
-Uma ApiRESTful usando o framework Express e o MongoDB com Mongoose e MongoDB Atlas. Além do uso do Typescript com o Node.js para deixar o projeto com uma tipagem forte.
+Uma ApiRESTful construída com base na arquitetura MVC usando o Node.js com o framework Express e MongoDB, Mongoose, MongoDB Atlas, Typescript. Além do uso de libs para log como winston e morgan e lib para segurança http como o Helmet.
